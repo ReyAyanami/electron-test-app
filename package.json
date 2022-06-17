@@ -11,7 +11,7 @@
     "start": "npm run compile && npm run electron"
   },
   "devDependencies": {
-    "electron": "^5.0.8",
+    "electron": "^15.5.5",
     "rimraf": "^2.6.3",
     "typescript": "^3.5.3"
   }
